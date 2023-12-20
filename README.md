@@ -10,7 +10,7 @@ Ignite Timer is a time management application designed to help users manage thei
 
 To install the project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/verezeeee/ignite-timer.git`
+1. Clone the repository: `git clone https://github.com/verezeeee/02-ignite-timer.git`
 2. Navigate into the project directory: `cd ignite-timer`
 3. Install the dependencies: `npm install` or `yarn install`
 4. Start the project: `npm start` or `yarn start`
